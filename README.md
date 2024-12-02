@@ -1,6 +1,6 @@
-# **Super Aleste**
+# Super Aleste
 ---
-Super Aleste is a shoot 'em up *(often shortened to shmups)* made by **Compile** with main designer credited to **Takayuki Hirono** and published by *Toho* released in *April 8, 1992* for the **Super Famicom** and was then localized to the **Super Nintendo Entertainment System** as **Space Megaforce** in *October of 1992*.
+Super Aleste is a shoot 'em up (often shortened to shmups) made by Compile with main designer credited to Takayuki Hirono and published by Toho released in April 8, 1992 for the Super Famicom and was then localized to the Super Nintendo Entertainment System as Space Megaforce in October of 1992.
 This is a game that has succeeded particularly in providing a shoot 'em up that runs in full speed with minimal slowdown whilst showcasing the Super Famicom's full graphical capability.
 Shooters on the Super Famicom are often known to slowdown during the action due to the abundance of bullets on screen and the sprite limit causing flickering so this was a genuine marvel at the time.
 ---
